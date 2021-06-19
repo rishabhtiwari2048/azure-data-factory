@@ -1,0 +1,9 @@
+{
+	"name": "rishabhtiwari2048adf",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b0f45c2-e25f-4098-b375-c8460e94293c",
+		"tenantId": "03fb6c76-e23c-40b4-8d6a-4a007f02810e"
+	}
+}
